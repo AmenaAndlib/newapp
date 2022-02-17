@@ -1,0 +1,27 @@
+.brows{
+    background: linear-gradient(#e66465, #9198e5);
+    /* background-repeat:no-repeat; */
+    background-size: cover;
+    border: solid black 15px;
+   
+
+}
+.brows1{
+  padding-left: 25px;
+    margin-right:3px ;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    padding-top: 9px;
+
+    
+}
+.brows2{
+    padding-top: 10 px;
+    margin: 1px;
+    padding: 10px;
+    border: solid black 5px;
+   
+}
+.brows3{
+    background:linear-gradient(#e66465, #9198e5); ;
+}
